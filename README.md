@@ -1,4 +1,4 @@
-VI BASICS
+## VI BASICS
 
 ## RESOURCES LINKS
 
@@ -26,7 +26,7 @@ Your sandbox must be available at the end of this project - the Checker will acc
 The answer of a task must be in a specific file
 Each answer file must contain only the command to execute in Emacs for solving the task. Example: “What is the command to quit without saving changes?” -> the file should contain only :q!
 
-##TASKS
+## TASKS
 
 Task 0. Create your answer directory: Navigate to /root and create a directory named 0x03_vi
 
